@@ -1,3 +1,6 @@
+It runs on a FPGA simulator. A...Z letters are entered as binary numbers. dots and lines are outputted as the corresponding morse
+codes.
+
 mcencoder.vhd is the top level module.
 FIFO.vhd is the FIFO module for input stage.
 outputmachine.vhd is for output stage.
